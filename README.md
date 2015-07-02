@@ -1,9 +1,9 @@
 HeliFood
 ==========================
 
-Simple Multi Platform 2D game developed using LibGDX game engine.
+Simple Multi Platform 2D game developed in Java using LibGDX game engine.
 - Click on the left side of the screen to fly the heli
-- Right click on the right side of the screen to shoot a "BEAM" :D
+- Click on the right side of the screen to shoot a "BEAM" :D
 - Catch as many food as possible
 
 ### Running
